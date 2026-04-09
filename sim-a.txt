@@ -1,4 +1,4 @@
-Proyek alhir mta kuliah SIM :
+Proyek akhir mta kuliah SIM :
 1. Deploy R-Markdown melalui RPubs 
 2. Menyimpan da melakukan kolaborasi menggunakan Git dan GitHub 
 3. Membuat Web App dengan R Shiny 
