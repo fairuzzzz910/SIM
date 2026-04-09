@@ -1,0 +1,4 @@
+Proyek alhir mta kuliah SIM :
+1. Deploy R-Markdown melalui RPubs 
+2. Menyimpan da melakukan kolaborasi menggunakan Git dan GitHub 
+3. Mmebuat Web App 
